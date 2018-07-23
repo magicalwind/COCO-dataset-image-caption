@@ -44,4 +44,4 @@ Predicting the captions with the sample method created in Decoder. Convert the i
 
 ## Coming up next:
 
-Writing a script to evaluate the model with BLEU score. Found some good sample code 
+Writing a script to evaluate the model with BLEU score. Found some good sample code [here](https://github.com/tylin/coco-caption)
