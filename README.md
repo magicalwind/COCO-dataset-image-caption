@@ -23,6 +23,7 @@ cd ..
 Visualize the data, including the image, caption pairs. 
 
 - data_loader.py, vocabulary.py
+
 Build the needed class for data loading, and the vocabulary class. Based on the code of [yunjey](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning). Modify the code for batching processing.
 
 - model.py
@@ -40,3 +41,7 @@ Set the training parameters and start a training. (It takes time on training at 
 - Generating Captions
 
 Predicting the captions with the sample method created in Decoder. Convert the index sequences to word sequences and view the output. 
+
+## Coming up next:
+
+Writing a script to evaluate the model with BLEU score. Found some good sample code 
